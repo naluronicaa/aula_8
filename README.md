@@ -1,6 +1,5 @@
 # aula_8
 ## Releace Plan - Log in
 ### User Story 
-- Como usuário do site de agendamento de consultas médicas on-line, gostaria de realizar o log in na plataforma para ter acesso às funcionalidades exclusivas, como agendar e visualizar minhas consultas.
-
+- Como usuário, quero fazer o login na plataforma para acessar as ferramentas exclusivas de agendamento e visualização de consultas.
 
